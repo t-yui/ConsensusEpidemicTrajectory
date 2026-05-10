@@ -4,6 +4,8 @@ This repository is dedicated to the data availability for the paper **Estimating
 
 # How to conduct simulations
 
+The scripts in this repository requires Python 3.9 or later.
+
 ## Package Installation
 
 ```bash
