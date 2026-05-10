@@ -6,8 +6,10 @@
 
 # allow a specified file
 !*.py
+!*.sh
 
 !.gitignore
 !.gitkeep
 !LICENSE
 !README.md
+!requirements.txt

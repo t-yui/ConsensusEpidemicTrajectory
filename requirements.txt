@@ -1,0 +1,5 @@
+numpy
+scipy<1.14
+matplotlib
+cvxopt
+logzero
