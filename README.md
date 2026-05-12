@@ -1,6 +1,6 @@
 # ConsensusEpidemicTrajectory
 
-This repository is dedicated to the data availability for the paper **Estimating Consensus Epidemic Trajectories across Compartmental Models via a Constrained Power Fr\'echet Mean with Functional Registration**.
+This repository is dedicated to the data availability for the paper [**Estimating Consensus Epidemic Trajectories via a Constrained Power Fr\'echet Mean with Functional Registration**](https://doi.org/10.48550/arXiv.2605.10069)
 
 # How to conduct simulations
 
